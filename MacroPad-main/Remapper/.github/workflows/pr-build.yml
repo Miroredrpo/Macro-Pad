@@ -1,0 +1,24 @@
+name: PR Build
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+    branches: [main, fiber]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Build
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          submodules: true
+
+      - name: Use Bun
+        uses: oven-sh/setup-bun@v1
+      - name: bun install, and start
+        run: |
+          bun install
+          bun run refresh-kbs
+          bun run build
