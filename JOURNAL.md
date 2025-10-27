@@ -6,10 +6,16 @@
   ==================================================================
 -->
 
-## 10/27/2025 - completed EVERYTHING !!!  
+## 10/27/2025 8 PM - completed EVERYTHING !!!  
 
 ![Screenshot 2025-10-27 200208](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTk0OSwicHVyIjoiYmxvYl9pZCJ9fQ==--f593b2942a8f09cc4207ed330b158e6d27a0744a/Screenshot%202025-10-27%20200208.png)
 
 I managed to finish the schematics 3d model of the case, pcb design and everything in this past week, I decided to finish everything in one go then upload it all. I have taken help of one of my brothers to write the firmware as well, which maybe needed to be configured later on. I hope this is enough software so that now I can finally start on the hardware side of things 
+  
+
+## 10/27/2025 9 PM - Details on the things  
+
+What i have done is made a 16 key hot swappable keyswitches, macro keyboard that can be used as a streamdeck or a macro board, heck it can even be used as a gameing only keyboard, i used shrpr3d to make the 3d3 models/ assemble the 3d models as i have built off of existing models as well!![Screenshot 2025-10-27 212121](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTk5MiwicHVyIjoiYmxvYl9pZCJ9fQ==--985fd642c737dcfa554e7eb963cc9d528957e860/Screenshot%202025-10-27%20212121.png) i was un aware about the minimum 3 journals requirement or else  i would have well documented this even more
+
   
 
