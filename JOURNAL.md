@@ -6,3 +6,10 @@
   ==================================================================
 -->
 
+## 10/27/2025 - completed EVERYTHING !!!  
+
+![Screenshot 2025-10-27 200208](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTk0OSwicHVyIjoiYmxvYl9pZCJ9fQ==--f593b2942a8f09cc4207ed330b158e6d27a0744a/Screenshot%202025-10-27%20200208.png)
+
+I managed to finish the schematics 3d model of the case, pcb design and everything in this past week, I decided to finish everything in one go then upload it all. I have taken help of one of my brothers to write the firmware as well, which maybe needed to be configured later on. I hope this is enough software so that now I can finally start on the hardware side of things 
+  
+
