@@ -25,6 +25,13 @@ led aswell to make the macro pad backlit as well
 <img width="1208" height="893" alt="image" src="https://github.com/user-attachments/assets/1679e594-d952-412e-a18a-8e0aba2bc14d" />
 
 this is the back side of the pcb.
+
+this is the 3d case that will be used to hold the pcb in place, then have a connecter comeout fom the hole made.
+
+<img width="1285" height="970" alt="image" src="https://github.com/user-attachments/assets/dbb1cb08-3054-45be-b470-9a311b105db5" />
+
+
+
 ---
 
 
