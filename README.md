@@ -1,14 +1,14 @@
 #  MacroPad
 
-**MacroPad** is a 4by4 keyboard which uses hotswappable mechanichal switches and uses a micro-controller
-so that it can be used a strem deck as well as the indivisual keys are programmable manually in the firmware 
+**MacroPad** is a 4by4 keyboard which uses hotswappable mechanical switches and uses a micro-controller
+so that it can be used a stream deck as well as the indivisual keys are programmable manually in the firmware 
 folder
 ---
 
 ##  Overview
 
-**MacroPad** is a 4by4 keyboard which uses hotswappable mechanichal switches and uses a micro-controller
-so that it can be used a strem deck as well as the indivisual keys are programmable manually in the firmware 
+**MacroPad** is a 4by4 keyboard which uses hotswappable mechanical switches and uses a micro-controller
+so that it can be used a stream deck as well as the indivisual keys are programmable manually in the firmware 
 folder 
 
 ## PCB design :
