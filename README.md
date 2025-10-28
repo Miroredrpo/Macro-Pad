@@ -1,44 +1,30 @@
-# 🧠 MacroPad
+#  MacroPad
 
-A fully customizable **macro pad project** featuring hardware design files, 3D models, and firmware workspace for STM32-based controllers.  
-This repository provides everything you need to build your own programmable macro pad — from PCB design and component models to firmware development setup.
-
+**MacroPad** is a 4by4 keyboard which uses hotswappable mechanichal switches and uses a micro-controller
+so that it can be used a strem deck as well as the indivisual keys are programmable manually in the firmware 
+folder
 ---
 
-## 🧩 Overview
+##  Overview
 
-**MacroPad** is an open-source DIY project that lets you create a compact, programmable input device for:
-- 💻 Productivity shortcuts (e.g. Photoshop, OBS, VS Code)
-- 🎮 Game control macros
-- 🎵 MIDI or media control
-- ⚙️ Custom automation or scripting
+**MacroPad** is a 4by4 keyboard which uses hotswappable mechanichal switches and uses a micro-controller
+so that it can be used a strem deck as well as the indivisual keys are programmable manually in the firmware 
+folder 
 
+## PCB design:
 
-## ⚙️ Features
+<img width="816" height="706" alt="image" src="https://github.com/user-attachments/assets/41d074c6-1e89-4a64-8ee9-8585cdf4a839" />
 
--  **Customizable Firmware:** Built in STM32CubeIDE, adaptable for STM32-based MCUs  
--  **3D Printable Enclosure:** Full set of `.step` models for body and key components  
--  **Switch Support:** Compatible with MX and Choc mechanical switches  
--  **USB-C connectivity** supported (models included)  
--  **LED & Display Ready:** Models for LEDs and OLED modules (128x32 / 128x64)  
--  **Open Hardware:** Includes CAD and STEP libraries for all parts
+this pcb design is the design layout ony for the hot swapable keys and the rest of the conponents can be placed at the bottom of the pcb here :
 
----
+<img width="957" height="799" alt="image" src="https://github.com/user-attachments/assets/ae5a97a9-8998-4a6d-a160-5a14736f0a85" />
 
-## 🪛 Hardware Requirements
+this is the pcb in 3d view and the components can be seen placed in there respective places, there are places to put in indivisual 
+led aswell to make the macro pad backlit as well 
 
-| Component | Description | Notes |
-|------------|--------------|-------|
-| MCU | STM32-based microcontroller (STM32F0/F1 series) | Works with STM32CubeIDE firmware |
-| Switches | MX or Choc mechanical switches | Various key sizes included |
-| Diodes | 1N4148 / SOD-123 | Per-key diode support |
-| LEDs | WS2812B / SK6812 MINI | Optional RGB backlighting |
-| Display | 0.91" / 0.96" OLED (SSD1306) | Optional front display |
-| Connector | USB-C | Supported footprints: HRO Type-C-31-M-12/14 |
-| Case | 3D printed enclosure | Models in `Libraries/3D_Models` |
+<img width="1208" height="893" alt="image" src="https://github.com/user-attachments/assets/1679e594-d952-412e-a18a-8e0aba2bc14d" />
 
-> 💡 You can replace the MCU with RP2040 or Arduino Pro Micro variants — 3D models for those are also included.
-
+this is the back side of the pcb.
 ---
 
 
