@@ -19,3 +19,8 @@ What i have done is made a 16 key hot swappable keyswitches, macro keyboard that
 
   
 
+## 10/28/2025 - Finished the 3d model of the case  
+
+I just finished the outer case of the 3d model that will hold the pcb and all the components that will contain all the components after everything has been assembled. I have used the 3d model of another macropad's case I![Screenshot 2025-10-28 114901](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjE1NywicHVyIjoiYmxvYl9pZCJ9fQ==--652cb14e8ac35feee21253c1ec29fcf9ea3acb7f/Screenshot%202025-10-28%20114901.png)
+ found online and remodelled it to fit my pcb sizes and all  
+
